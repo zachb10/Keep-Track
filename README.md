@@ -1,2 +1,2 @@
-# My-Library
-A simple terminal program that keeps track of books, written in Python.
+# Keep Track
+A simple terminal program that keeps track of books.
